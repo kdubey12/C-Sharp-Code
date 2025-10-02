@@ -1,0 +1,14 @@
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/bin/Debug/net9.0/Selection
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/bin/Debug/net9.0/Selection.deps.json
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/bin/Debug/net9.0/Selection.runtimeconfig.json
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/bin/Debug/net9.0/Selection.dll
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/bin/Debug/net9.0/Selection.pdb
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/Selection.GeneratedMSBuildEditorConfig.editorconfig
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/Selection.AssemblyInfoInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/Selection.AssemblyInfo.cs
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/Selection.csproj.CoreCompileInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/Selection.dll
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/refint/Selection.dll
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/Selection.pdb
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/Selection.genruntimeconfig.cache
+/home/kshitij/Documents/code/ALEVEL/Selection/Selection/obj/Debug/net9.0/ref/Selection.dll

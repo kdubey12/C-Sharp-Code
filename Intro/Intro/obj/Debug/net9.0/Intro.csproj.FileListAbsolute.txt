@@ -1,0 +1,14 @@
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/bin/Debug/net9.0/Intro
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/bin/Debug/net9.0/Intro.deps.json
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/bin/Debug/net9.0/Intro.runtimeconfig.json
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/bin/Debug/net9.0/Intro.dll
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/bin/Debug/net9.0/Intro.pdb
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/Intro.AssemblyInfoInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/Intro.AssemblyInfo.cs
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/Intro.csproj.CoreCompileInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/Intro.dll
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/refint/Intro.dll
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/Intro.pdb
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/Intro.genruntimeconfig.cache
+/home/kshitij/Documents/code/ALEVEL/Intro/Intro/obj/Debug/net9.0/ref/Intro.dll

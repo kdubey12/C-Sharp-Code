@@ -1,0 +1,14 @@
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/bin/Debug/net9.0/Functions
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/bin/Debug/net9.0/Functions.deps.json
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/bin/Debug/net9.0/Functions.runtimeconfig.json
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/bin/Debug/net9.0/Functions.dll
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/bin/Debug/net9.0/Functions.pdb
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/Functions.AssemblyInfoInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/Functions.AssemblyInfo.cs
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/Functions.csproj.CoreCompileInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/Functions.dll
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/refint/Functions.dll
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/Functions.pdb
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/Functions.genruntimeconfig.cache
+/home/kshitij/Documents/code/ALEVEL/Functions/Functions/obj/Debug/net9.0/ref/Functions.dll

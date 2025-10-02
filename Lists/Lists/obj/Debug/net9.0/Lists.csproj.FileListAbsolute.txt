@@ -1,0 +1,14 @@
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/bin/Debug/net9.0/Lists
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/bin/Debug/net9.0/Lists.deps.json
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/bin/Debug/net9.0/Lists.runtimeconfig.json
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/bin/Debug/net9.0/Lists.dll
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/bin/Debug/net9.0/Lists.pdb
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/Lists.AssemblyInfoInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/Lists.AssemblyInfo.cs
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/Lists.csproj.CoreCompileInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/Lists.dll
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/refint/Lists.dll
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/Lists.pdb
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/Lists.genruntimeconfig.cache
+/home/kshitij/Documents/code/ALEVEL/Lists/Lists/obj/Debug/net9.0/ref/Lists.dll

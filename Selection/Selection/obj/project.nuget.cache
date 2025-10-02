@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mYySOXk7FTM=",
+  "success": true,
+  "projectFilePath": "/home/kshitij/Documents/code/ALEVEL/Selection/Selection/Selection.csproj",
+  "expectedPackageFiles": [
+    "/home/kshitij/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
