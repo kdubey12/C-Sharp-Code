@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/Strings.csproj": {}
+    "/home/kshitij/Documents/code/ALEVEL/Strings/Strings/Strings.csproj": {}
   },
   "projects": {
-    "/home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/Strings.csproj": {
+    "/home/kshitij/Documents/code/ALEVEL/Strings/Strings/Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/Strings.csproj",
+        "projectUniqueName": "/home/kshitij/Documents/code/ALEVEL/Strings/Strings/Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "/home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/Strings.csproj",
+        "projectPath": "/home/kshitij/Documents/code/ALEVEL/Strings/Strings/Strings.csproj",
         "packagesPath": "/home/kshitij/.nuget/packages/",
-        "outputPath": "/home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/obj/",
+        "outputPath": "/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kshitij/.nuget/NuGet/NuGet.Config"

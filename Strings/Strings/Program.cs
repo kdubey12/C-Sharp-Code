@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.ComponentModel.DataAnnotations;
 using System.Numerics;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -124,7 +125,7 @@ static void VarNamer()
             break;
     }
 
-    Console.Write(sb.ToString());
+    Console.WriteLine(sb.ToString());
 }
 
 static void PigLatin(string s)
@@ -137,21 +138,24 @@ static void PigLatin(string s)
 
         List<int> punctuation_pos = new List<int>();
         List<string> punctuation = new List<string>();
-        for (int i = 0; i < word.Length; i++)
-        {
-            if (Char.IsPunctuation(word[i]) == true)
-            {
-                punctuation_pos.Add(i);
-                punctuation.Add(word[i].ToString());
-            }
-        }
+        
+        
+        string leading_punc = "";
+        string trailing_punc = "";
+
+        for (int i = 0; i < word.Length; i++) if (Char.IsPunctuation(word[i]) == true) leading_punc = leading_punc + word[i]; else break;
+
+        for (int i = word.Length - 1; i >= 0; i++) if (Char.IsPunctuation(word[i]) == true) trailing_punc = trailing_punc + word[i]; else break;
+
 
         string filtered_word = String.Concat(word.Where(c => Char.IsLetter(c)));
         string new_word = String.Concat(filtered_word.Substring(1), filtered_word[0], "ay");
-        
+
         for (int i = 0; i < punctuation_pos.Count; i++)
         {
-            new_word = new_word.Insert(punctuation_pos[i] + i, punctuation[i]);
+            new_word = new_word.Insert(Math.Min(punctuation_pos[i], new_word.Length), punctuation[i]);
+            Console.WriteLine(new_word);
+            Console.WriteLine(punctuation_pos[i]);
         }
 
         output.Add(new_word);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i15eGXon874=",
+  "dgSpecHash": "Fd2Qw22AGww=",
   "success": true,
-  "projectFilePath": "/home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/Strings.csproj",
+  "projectFilePath": "/home/kshitij/Documents/code/ALEVEL/Strings/Strings/Strings.csproj",
   "expectedPackageFiles": [
     "/home/kshitij/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
   ],

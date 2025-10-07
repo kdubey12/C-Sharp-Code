@@ -12,3 +12,18 @@
 /home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/obj/Debug/net9.0/Strings.pdb
 /home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/obj/Debug/net9.0/Strings.genruntimeconfig.cache
 /home/kshitij/Documents/code/ALEVEL/Strings - Kshitij Dubey/Strings/obj/Debug/net9.0/ref/Strings.dll
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/bin/Debug/net9.0/Strings
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/bin/Debug/net9.0/Strings.deps.json
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/bin/Debug/net9.0/Strings.runtimeconfig.json
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/bin/Debug/net9.0/Strings.dll
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/bin/Debug/net9.0/Strings.pdb
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/Strings.AssemblyInfoInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/Strings.AssemblyInfo.cs
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/Strings.csproj.CoreCompileInputs.cache
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/Strings.sourcelink.json
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/Strings.dll
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/refint/Strings.dll
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/Strings.pdb
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/Strings.genruntimeconfig.cache
+/home/kshitij/Documents/code/ALEVEL/Strings/Strings/obj/Debug/net9.0/ref/Strings.dll
