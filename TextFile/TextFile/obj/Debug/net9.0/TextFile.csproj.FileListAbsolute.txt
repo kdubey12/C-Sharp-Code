@@ -1,0 +1,15 @@
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/TextFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/TextFile.AssemblyInfoInputs.cache
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/TextFile.AssemblyInfo.cs
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/TextFile.csproj.CoreCompileInputs.cache
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/TextFile.sourcelink.json
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/bin/Debug/net9.0/TextFile
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/bin/Debug/net9.0/TextFile.deps.json
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/bin/Debug/net9.0/TextFile.runtimeconfig.json
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/bin/Debug/net9.0/TextFile.dll
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/bin/Debug/net9.0/TextFile.pdb
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/TextFile.dll
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/refint/TextFile.dll
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/TextFile.pdb
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/TextFile.genruntimeconfig.cache
+/home/kshitij/Documents/code/ALEVEL/TextFile/TextFile/obj/Debug/net9.0/ref/TextFile.dll
