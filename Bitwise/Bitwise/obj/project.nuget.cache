@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qG56H9jA0E=",
+  "success": true,
+  "projectFilePath": "/home/kshitij/Documents/code/ALEVEL/Bitwise/Bitwise/Bitwise.csproj",
+  "expectedPackageFiles": [
+    "/home/kshitij/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
